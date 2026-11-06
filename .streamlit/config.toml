@@ -1,0 +1,20 @@
+[theme]
+base = "light"
+primaryColor = "#087665"
+backgroundColor = "#f7fafc"
+secondaryBackgroundColor = "#eef4f7"
+textColor = "#182c40"
+borderColor = "#d0dde6"
+dataframeHeaderBackgroundColor = "#e8f0f5"
+showWidgetBorder = true
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#edf4f7"
+secondaryBackgroundColor = "#ffffff"
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
